@@ -1,8 +1,12 @@
 # Crypton
-Programme de chiffrement à clé
+Projet de lycée ISN, 2017
+
+Description:
+
+  Programme de chiffrement à clé
 
 
 Le programme à été écrit et testé uniquement avec l'IDE Edupython.
 
 
-Contact : sir.ramalla@gmail.com
+Contact : antonin.alves42@gmail.com
